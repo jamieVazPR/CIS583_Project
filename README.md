@@ -34,3 +34,7 @@ For further information on the project, please refer to the official Confluence 
 ## Example of Model Output and Model Architecture
 
 ![Model Architecture](https://github.com/jamieVazPR/CIS583_Project/blob/main/Images/ModelArchitecture.png)
+
+![Model Output](https://github.com/jamieVazPR/CIS583_Project/blob/main/Images/ModelOutput.png)
+
+![Model Plot](https://github.com/jamieVazPR/CIS583_Project/blob/main/Images/ModelPlot.png)

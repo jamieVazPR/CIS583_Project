@@ -1,4 +1,4 @@
-# CIS583_Project
+# Disaster Tracking: Infrastructure Damage Recognition from Image Data
 
 Natural disasters are a various global phenomenas that occur, either man-made or naturally, which are capable of causing severe damage to infrastructure, impact/endanger our daily lives, and even cause shift in how necesseties are distributed. Various factors going into producing, predicting, or even analyzing these phenomenas; however the project's goal is to study how computer vision can aid in analyzing areas of disaster to provide estimate on damages to infrastructure.
 

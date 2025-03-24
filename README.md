@@ -30,3 +30,7 @@ The project focuses on utilizing a pre-trained model to assess classification an
 
 For further information on the project, please refer to the official Confluence Page issued under :
 - https://cis553-2024.atlassian.net/wiki/spaces/SD/pages/8519681/Disaster+Tracking+Debris+Recognition+from+Image+Data
+
+## Example of Model Output and Model Architecture
+
+![Model Architecture](https://github.com/jamieVazPR/CIS583_Project/blob/main/Images/ModelArchitecture.png)
